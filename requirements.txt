@@ -1,0 +1,17 @@
+telethon>=1.24.0
+python-dotenv
+requests>=2.18.4
+Pillow
+bs4
+beautifulsoup4>=4.8.1
+async_generator
+hachoir
+humanize
+gTTS
+aiohttp
+gitpython
+cryptg
+dnspython
+qrcode
+pybase64>=0.4.0
+pydub
